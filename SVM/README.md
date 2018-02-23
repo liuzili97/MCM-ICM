@@ -4,8 +4,8 @@ If you want to divide some data into two groups supervised, you need to divide t
 `group=[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2];`  <br><br>
 `test=[6 6; 5.5 5.5; 7 6; 12 14; 7 11; 2 2; 9 9; 8 2; 2 6; 5 10; 4 7; 7 4];` <br>
 `groupTest=[1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1];`<br><br>
-After setting the kernel function, such as `linear, rbf, quadratic, polynomial and so on`, you can train the classifier and test it, as is shown in the figure. <br>
-<img src="https://github.com/liuzili97/MCM-ICM/raw/master/images/svm.png" width="50%" height="50%">
+After setting the kernel function, such as `linear, rbf, quadratic, polynomial and so on`, you can train the classifier and test it, as is shown in the figure. <br><br>
+<div align=center><img src="https://github.com/liuzili97/MCM-ICM/raw/master/images/svm.png" width="50%" height="50%">
 
 
 
