@@ -1,4 +1,4 @@
-function [ classfication ] = SVM_NL( train,tast )
+function [ classfication ] = SVM_NL( train,test )
 %SVM对线性不可分的数据进行处理
 %在选择核函数时，尝试用linear以外的rbf,quadratic,polynomial等，观察获得的分类情况
 %训练数据
