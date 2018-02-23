@@ -1,5 +1,5 @@
-# MCM-ICM
-Learning materials of MCM/ICM
+# SVM
+This is used to classify the non-linearly data, achieving by using matlab.
 
-# MCM-ICM
+# PCA
 Learning materials of MCM/ICM
