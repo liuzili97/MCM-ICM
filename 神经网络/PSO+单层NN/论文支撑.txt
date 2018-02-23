@@ -1,0 +1,7 @@
+《A Novel Hybrid PSO-BP Algorithm for Neural Network Training》：“the hybrid PSO-BP algorithm is better than the basic BP algorithm and the adaptive PSO algorithm in the stability, correct recognition rate and training time.”
+	(1) 来源：http://ieeexplore.ieee.org/document/5193700/
+	(2) google学术：http://scholar.google.com.sg/scholar?q=A+Novel+Hybrid+PSO-BP+Algorithm+for+Neural+Network+Training&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwia4Kmk6pPZAhUfT48KHb2eBNYQgQMIJTAA
+     
+ 
+《A Novel Artificial Neural Network Based on Hybrid PSO-BP Algorithm in the Application of Adaptive PMD Compensation System》：“PSO-BP algorithm, has been adopted to train the weights of ANN, and it can make use of not only strong global searching ability of the PSO algorithm, but also strong local searching ability of the BP algorithm.”
+	（1）百度学术：http://xueshu.baidu.com/s?wd=paperuri:(a5ab2190b4588205157f514ea2e02284)&filter=sc_long_sign&sc_ks_para=q%3DA+Novel+Artificial+Neural+Network+Based+on+Hybrid+PSO-BP+Algorithm+in+the+Application+of+Adaptive+PMD+Compensation+System&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=7114223397974827186

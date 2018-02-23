@@ -1,0 +1,4 @@
+《Grey Wolf Optimizer》：“the GWO algorithm is able to provide very competitive results compared to well-known meta-heuristics.”
+	（1）来源：https://dl.acm.org/citation.cfm?id=2580529
+	（2）google学术：http://scholar.google.com.sg/scholar?q=Grey+Wolf+Optimizer&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwi_tMyx7pPZAhUFLo8KHYvLAawQgQMIJTAA
+
